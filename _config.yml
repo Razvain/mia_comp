@@ -22,8 +22,8 @@ title: "Poisoned Challice Competition 2026"
 email: pschcomp@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Follow us on social media: 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://pschcomp.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/mia_comp" # the subpath of your site, e.g. /blog
+url: "http://razvain.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pschcomp
 linkedin_username: pschcomp
 github_username:  pschcomp
